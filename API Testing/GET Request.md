@@ -5,11 +5,11 @@ This document describes a GET request used in manual API testing to retrieve det
 The example focuses on validating successful data retrieval, correct response structure, and proper authorization handling. Each request includes the HTTP method, endpoint URL, required headers, and expected response behavior.
 
 ## Request Details
-Method: GET
-URL: https://reqres.in/api/{resource}/2
-Authorization: API Key (x-api-key)
-Headers	Content-Type: application/json
-Request Body:Not required
+- Method: GET
+- URL: https://reqres.in/api/{resource}/2
+- Authorization: API Key (x-api-key)
+- Headers	Content-Type: application/json
+- Request Body:Not required
 
 ## Expected Result
 - Status code: 200 OK

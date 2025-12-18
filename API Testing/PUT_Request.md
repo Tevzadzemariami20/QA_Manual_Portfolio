@@ -5,6 +5,7 @@ The request validates request body handling, successful update behavior, and res
 
 ## Request Details
 - Method: PUT
+- URL: https://reqres.in/api/custom-endpoints/2
 - Headers	Content-Type: application/json
 - Authorization: API Key (x-api-key)
 - Request Body: JSON

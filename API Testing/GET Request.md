@@ -22,9 +22,11 @@ Request Body:Not required
 - Response time is within acceptable limits
 
 ## Actual Result
-- Status code: 200 OK
-- Response body returned correct resource details
-Sample Response (JSON)
+
+- Status code: **200 OK**
+- Response body returned correct resource details:
+
+```json
 {
   "data": {
     "id": 2,
@@ -34,3 +36,4 @@ Sample Response (JSON)
     "pantone_value": "17-2031"
   }
 }
+

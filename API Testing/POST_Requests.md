@@ -5,10 +5,11 @@ This document describes a POST request used in manual API testing to create a ne
 The request validates request body handling, response status codes, and correct data creation behavior when valid input is provided.
 
 ## Request Details
-- Method	POST
-- Headers	Content-Type: application/json
-- Authorization	API Key (x-api-key)
-- Request Body	JSON
+- Method: POST
+- URL: https://reqres.in/api/custom-endpoints
+- Headers: Content-Type: application/json
+- Authorization: API Key (x-api-key)
+- Request Body: JSON
 
 ## Expected Result
 Status code: 201 Created

@@ -6,7 +6,7 @@ The example focuses on validating successful data retrieval, correct response st
 
 ## Request Details
 Method: GET
-URL: [https://reqres.in/api/{resource}/2]
+URL: https://reqres.in/api/{resource}/2
 Authorization: API Key (x-api-key)
 Headers	Content-Type: application/json
 Request Body:Not required

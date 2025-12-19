@@ -18,8 +18,8 @@
 - Chat messages are visible and readable
 
 ## Test Steps
-| Step No. | Action | Input Data | Expected Result |
-| -------- | ------ | ---------- | --------------- |
+| Step No. | Action | Expected Result |
+| -------- | ------ |--------------- |
 | 1 | Navigate to | The website opens successfully |
 | 2 | Log in and navigate to the chat dashboard | Chat dashboard is displayed |
 | 3 | Expand any chat group | The chat group expands and displays available chats |

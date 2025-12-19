@@ -17,8 +17,8 @@
 - Search results match the entered keyword
 - Non-matching chats are not displayed
 
-| Step No.	| Action | Input Data	| Expected Result |
-| --------	| ------ | ---------	| ----------------|
+| Step No.	| Action | Expected Result |
+| --------	| ------ | ----------------|
 | 1	| Navigate to https://getbot.ai | The website opens successfully |
 | 2	| Log in to the application | User is logged in successfully |
 | 3	| Navigate to the chat dashboard |Chat dashboard is displayed |

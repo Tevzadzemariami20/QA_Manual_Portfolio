@@ -1,20 +1,20 @@
 # AI Plagiarism “Scan” Button Does Not Trigger Any Action or Notification
 
-### Test Device: Laptop, Microsoft Surface 4
-### Operating system: Microsoft Windows 11 Pro 10.0.26100
-### Browser: Microsoft Edge Version 142.0.3595.94
-### Severity: Critical
-### Priority: High
-### Reproducibility: 100%
+#### Test Device: Laptop, Microsoft Surface 4
+#### Operating system: Microsoft Windows 11 Pro 10.0.26100
+#### Browser: Microsoft Edge Version 142.0.3595.94
+#### Severity: Critical
+#### Priority: High
+#### Reproducibility: 100%
 
 ## Preconditions:
 User is logged into the system
 
 ## steps to reproduce:
--1.Open the AI plagiarism page.
--2.Enter a valid title.
--3.Enter the text/content to scan.
--4.Click on the “Scan” button.
+1.Open the AI plagiarism page.
+2.Enter a valid title.
+3.Enter the text/content to scan.
+4.Click on the “Scan” button.
 
 ## Excepted result:
 System should start the plagiarism scan.

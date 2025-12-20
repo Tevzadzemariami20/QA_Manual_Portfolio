@@ -5,11 +5,11 @@
 ## 👤 About Me
 Manual QA Tester with hands-on experience in functional, regression, system, API, backend, and exploratory testing for web and mobile applications. Skilled in writing clear test cases and bug reports, validating data with SQL, and collaborating with cross-functional Agile teams under international QA mentorship.
 
- 📧 Email: mariami.tevzadze.1@btu.edu.ge
- 🔗 LinkedIn: www.linkedin.com/in/mariam-tevzadze-110752223
- 📄 Resume: Mariami_Tevzadze_CV.pdf
- 📍 Location: Tbilisi, Georgia
- 🌐 Languages: - GE Georgian (native)
+- 📧 Email: mariami.tevzadze.1@btu.edu.ge
+- 🔗 LinkedIn: www.linkedin.com/in/mariam-tevzadze-110752223
+- 📄 Resume: Mariami_Tevzadze_CV.pdf
+- 📍 Location: Tbilisi, Georgia
+- 🌐 Languages: - GE Georgian (native)
                - EN English (upper intermediate | B2)
 
 ### 🧰 Skills & Tools

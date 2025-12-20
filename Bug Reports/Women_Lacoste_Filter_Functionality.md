@@ -10,7 +10,7 @@
 - Environment: Development
 
 #### Test Type
--Functional Testing
+- Functional Testing
 
 ## Description
 Verify that selecting the **Lacoste** brand from the **Women’s** section displays only Lacoste products.

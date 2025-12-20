@@ -19,14 +19,14 @@ Manual QA Tester with hands-on experience in functional, regression, system, API
 - Soft Skills: Collaboration, Communication, Problem-Solving, Critical Thinking, Adaptability, Time Management, Attention to Detail
 
 
-🎓 Certifications
-### 🔍 QA Manual Pro (Practical Software Testing Program)
+### 🎓 Certifications
+#### 🔍 QA Manual Pro (Practical Software Testing Program)
 GenofIT
 Duration: 5 weeks
 Completed hands-on QA training with international mentors, focusing on documentation, frontend/backend, UI/UX, API, and accessibility testing.
 Gained practical experience using Jira, Postman, and SQL on real projects guided by senior QA professionals.
 
-### 🔍 QA Manual (Theoretical Course)
+#### 🔍 QA Manual (Theoretical Course)
 GenofIT
 Duration: 4 weeks
 Completed a Manual QA Fundamentals course covering STLC, SDLC, test design techniques, bug lifecycle, and core testing documentation.

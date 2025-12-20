@@ -1,4 +1,4 @@
-# Bug Report: Time on Invitation Card Is Not Updating
+# Time on Invitation Card Is Not Updating
 
 ## Summary
 The time displayed on the invitation card does not update after the user enters or modifies the event time.

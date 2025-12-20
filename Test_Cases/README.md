@@ -48,4 +48,3 @@ The purpose of these test cases is to demonstrate:
 - Clear understanding of application behavior
 - Ability to write structured and reusable test cases
 - Attention to detail and user-focused testing approach
-- 

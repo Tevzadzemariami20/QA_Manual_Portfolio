@@ -9,8 +9,9 @@ Manual QA Tester with hands-on experience in functional, regression, system, API
 - 🔗 LinkedIn: www.linkedin.com/in/mariam-tevzadze-110752223
 - 📄 Resume: Mariami_Tevzadze_CV.pdf
 - 📍 Location: Tbilisi, Georgia
-- 🌐 Languages: - GE Georgian (native)
-               - EN English (upper intermediate | B2)
+- 🌐 Languages:
+  - GE Georgian (native)
+  - EN English (upper intermediate | B2)
 
 ### 🧰 Skills & Tools
 - Testing Types: Manual Testing, Frontend Testing, Backend Testing, UI/UX Testing, API Testing (GET, POST, PUT, DELETE), Accessibility Testing, Regression                         Testing, Functional Testing, Exploratory Testing, Cross-Browser Testing

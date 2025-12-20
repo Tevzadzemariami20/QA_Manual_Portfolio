@@ -13,7 +13,8 @@ The example focuses on validating successful data retrieval, correct response st
 
 ## Expected Result
 - Status code: 200 OK
-- Response contains:
+
+Response contains:
 - id
 - name
 - year

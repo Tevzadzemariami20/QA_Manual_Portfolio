@@ -7,7 +7,7 @@
 - Reproducibility: 100%
 
 ## Severity / Priority
-- Severity: Major  
+- Severity: Major
 - Priority: High  
 
 ## Pre-conditions

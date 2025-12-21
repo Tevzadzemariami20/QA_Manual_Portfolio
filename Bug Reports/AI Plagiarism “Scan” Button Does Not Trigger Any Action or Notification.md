@@ -1,11 +1,12 @@
 # AI Plagiarism “Scan” Button Does Not Trigger Any Action or Notification
 
-#### Test Device: Laptop, Microsoft Surface 4
-#### Operating system: Microsoft Windows 11 Pro 10.0.26100
-#### Browser: Microsoft Edge Version 142.0.3595.94
-#### Severity: Critical
-#### Priority: High
-#### Reproducibility: 100%
+## Environment
+- Test Device: Laptop, Microsoft Surface 4
+- Operating system: Microsoft Windows 11 Pro 10.0.26100
+- Browser: Microsoft Edge Version 142.0.3595.94
+- Severity: Critical
+- Priority: High
+- Reproducibility: 100%
 
 ## Preconditions:
 User is logged into the system

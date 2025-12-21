@@ -11,10 +11,11 @@
 User is logged into the system
 
 ## steps to reproduce:
-1. Open the AI plagiarism page.
-2. Enter a valid title.
-3. Enter the text/content to scan.
-4. Click on the “Scan” button.
+1. Open website https://getbot.ai/
+2. Open the AI plagiarism page.
+3. Enter a valid title.
+4. Enter the text/content to scan.
+5. Click on the “Scan” button.
 
 ## Excepted result:
 System should start the plagiarism scan.

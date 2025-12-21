@@ -1,10 +1,14 @@
 # Verify Lacoste Brand Filter in Women's Section
 
-#### Test Device: Laptop, Microsoft Surface 4
-#### Operating system: Microsoft Windows 11 Pro 10.0.26100
-#### Browser: Microsoft Edge Version 142.0.3595.94
-#### Reproducibility: 100%
-#### Priority: High
+## Enviroment
+- Test Device: Laptop, Microsoft Surface 4
+- Operating system: Microsoft Windows 11 Pro 10.0.26100
+- Browser: Microsoft Edge Version 142.0.3595.94
+- Reproducibility: 100%
+
+## Severity / Priority
+- Priority: High
+- Severity: Major
 
 #### Test Environment
 - Environment: Development

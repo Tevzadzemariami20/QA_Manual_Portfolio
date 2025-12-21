@@ -1,8 +1,5 @@
 # Time on Invitation Card Is Not Updating
 
-## Summary
-The time displayed on the invitation card does not update after the user enters or modifies the event time.
-
 ## Environment
 - Test Device: Laptop, Microsoft Surface 4
 - Operating system: Microsoft Windows 11 Pro 10.0.26100

@@ -1,9 +1,9 @@
 # Verify Opening a Chat from a Group
-
-### Priority: High  
-### Type: Functional  
-### Feature: Chat List & Chat Groups  
-### Status: Pass  
+#### ID-ChatGroup-004
+#### Priority: High  
+#### Type: Functional  
+#### Feature: Chat List & Chat Groups  
+#### Status: Pass  
 
 ## Description
 - Verify that a user can successfully open a chat from a chat group and view the chat content.

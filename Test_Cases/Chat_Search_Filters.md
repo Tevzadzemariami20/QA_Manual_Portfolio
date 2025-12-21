@@ -1,9 +1,9 @@
 # Verify Chat Search Filters
-
-### Priority: Medium  
-### Type: Functional  
-### Feature: Chat List & Chat Groups  
-### Status: Pass 
+#### ID: TC-ChatSearch-002
+#### Priority: Medium  
+#### Type: Functional  
+#### Feature: Chat List & Chat Groups  
+#### Status: Pass 
 
 ## Description
 - Verify that the chat search functionality correctly filters and displays chats based on the entered keyword.

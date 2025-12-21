@@ -3,7 +3,7 @@
 #### ID: TC-Wishlist-001
 #### Test Type: Functional
 #### Priority: High
-#### Test Status: Passed
+#### Test Status: Passed 
 
 ## Pre-Conditions
 - User is registered and logged in.
